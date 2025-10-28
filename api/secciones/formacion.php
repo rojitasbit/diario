@@ -1,11 +1,7 @@
 <?php
-/*****
-SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
-*****/
-
 $formacion = [
-"titulo" => "XXX",
-"autor" => "Gabinete de comunicación",
-"resumen" => "XXX",
+    "titulo" => "Educación Futuro: Realidad Virtual para Clases Inmersivas",
+    "resumen" => "Instituciones adoptan tecnologías innovadoras para aprendizaje sin fronteras globales.",
+    "autor" => "Dr. Eduardo Morales"
 ];
 ?>

@@ -1,11 +1,7 @@
 <?php
-/*****
-SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
-*****/
-
 $deportes = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+    "titulo" => "Selección Nacional Gana su Primera Copa del Mundo",
+    "resumen" => "Equipo nacional escribe su nombre en la historia del fútbol mundial con victoria épica memorable.",
+    "autor" => "Pedro Navarro"
 ];
 ?>

@@ -1,11 +1,7 @@
 <?php
-/*****
-SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
-*****/
-
 $cultura = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+    "titulo" => "Festival Internacional Atrae 2 Millones con Arte Digital",
+    "resumen" => "Fusión entre tradición y tecnología redefine expresiones artísticas con experiencias multisensoriales.",
+    "autor" => "Laura Méndez"
 ];
 ?>

@@ -1,11 +1,7 @@
 <?php
-/*****
-SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
-*****/
-
 $television = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+    "titulo" => "Streaming Interactivo: Espectadores Deciden Final de Series",
+    "resumen" => "Plataformas adoptan tecnología que transforma televidentes en co-creadores de programas.",
+    "autor" => "Carmen Ruiz"
 ];
 ?>

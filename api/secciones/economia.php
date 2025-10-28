@@ -1,11 +1,7 @@
 <?php
-/*****
-SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
-*****/
-
 $economia = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+    "titulo" => "Bolsa Alcanza Máximos Históricos con Tecnología Verde",
+    "resumen" => "Mercados financieros registran ganancias récord gracias a confianza inversionista y políticas económicas sostenibles.",
+    "autor" => "Roberto Silva"
 ];
 ?>

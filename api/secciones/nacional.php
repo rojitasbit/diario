@@ -1,11 +1,7 @@
 <?php
-/*****
-SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
-*****/
-
 $nacional = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+    "titulo" => "Gobierno Invierte $80 Billones en Infraestructura Moderna",
+    "resumen" => "Plan incluye hospitales inteligentes, red ferroviaria de alta velocidad y modernización del sistema energético nacional.",
+    "autor" => "Ana Rodríguez"
 ];
 ?>

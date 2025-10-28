@@ -1,11 +1,7 @@
 <?php
-/*****
-SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
-*****/
-
 $portada = [
-"titulo" => "Portada",
-"autor" => "jperez",
-"resumen" => "Las noticias mas importantes del 2025",
+    "titulo" => "Revolución Tecnológica 2025: La Inteligencia Artificial Transforma Cada Aspecto de Nuestra Vida Diaria",
+    "resumen" => "Descubre cómo los avances en IA están redefiniendo industrias completas, desde la medicina hasta la educación, creando nuevas oportunidades y desafíos para la sociedad global.",
+    "autor" => "Equipo Editorial"
 ];
 ?>

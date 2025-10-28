@@ -1,11 +1,7 @@
 <?php
-/*****
-SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
-*****/
-
 $ciencia = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+    "titulo" => "Descubren Material que Absorbe CO2 del Aire Eficientemente",
+    "resumen" => "Tecnología pionera captura dióxido de carbono atmosférico de forma masiva para revertir cambio climático.",
+    "autor" => "Dr. Alejandro Torres"
 ];
 ?>

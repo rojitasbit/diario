@@ -1,11 +1,7 @@
 <?php
-/*****
-SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
-*****/
-
 $empleo = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+    "titulo" => "10 Profesiones Más Demandadas y Mejor Pagadas 2025",
+    "resumen" => "Análisis de mercado laboral revela carreras con mayor crecimiento en era digital sostenible.",
+    "autor" => "Lic. Patricia López"
 ];
 ?>

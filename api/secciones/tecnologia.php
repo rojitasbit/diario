@@ -1,11 +1,7 @@
 <?php
-/*****
-SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
-*****/
-
 $tecnologia = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+    "titulo" => "Computación Cuántica: Nuevo Chip Procesa 100 Trillones OPS",
+    "resumen" => "Científicos revelan procesador cuántico que supera expectativas para investigación médica y climática.",
+    "autor" => "David Chen"
 ];
 ?>

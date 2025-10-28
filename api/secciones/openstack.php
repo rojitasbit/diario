@@ -1,11 +1,7 @@
 <?php
-/*****
-SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
-*****/
-
 $openstack = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+    "titulo" => "OpenStack 2025: IA Nativa para Gestión Cloud Automatizada",
+    "resumen" => "Plataforma cloud open source introduce capacidades predictivas para infraestructuras escalables.",
+    "autor" => "Ing. Fernando Castro"
 ];
 ?>

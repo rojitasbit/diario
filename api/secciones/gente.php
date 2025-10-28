@@ -1,11 +1,7 @@
 <?php
-/*****
-SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
-*****/
-
 $gente = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+    "titulo" => "Joven Transforma su Comunidad con Innovación Tecnológica",
+    "resumen" => "Historia inspiradora de visionario que demuestra que la innovación puede nacer en cualquier lugar.",
+    "autor" => "Sofía Ramírez"
 ];
 ?>
